@@ -1,0 +1,56 @@
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe.config
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.pdb
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.csprojResolveAssemblyReference.cache
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.exe
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.pdb
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.dll
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.xml
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.dll
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.dll
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.pdb
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.pdb
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe.config
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.xml
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.csprojResolveAssemblyReference.cache
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.exe
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe.config
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.exe
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.App.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.BusinesLogic.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.BusinesLogic.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Contracts.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Core.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Pharmacy.Data.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.xml
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.csprojResolveAssemblyReference.cache
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.exe
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.App\obj\Debug\Pharmacy.App.pdb

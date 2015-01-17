@@ -1,0 +1,17 @@
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.dll
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.pdb
+C:\Users\danilpavlov\documents\visual studio 2013\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll.config
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll.config
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll.config
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\bin\Debug\Pharmacy.Contracts.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.csprojResolveAssemblyReference.cache
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Contracts\obj\Debug\Pharmacy.Contracts.pdb

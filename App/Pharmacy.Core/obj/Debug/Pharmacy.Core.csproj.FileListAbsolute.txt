@@ -1,0 +1,21 @@
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.csprojResolveAssemblyReference.cache
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.dll
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.pdb
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.dll
+C:\Users\danilpavlov\Documents\Visual Studio 2013\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.pdb
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.csprojResolveAssemblyReference.cache
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.dll
+C:\Users\NET\Documents\Visual Studio 2012\Projects\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Core.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\bin\Debug\Pharmacy.Contracts.pdb
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.csprojResolveAssemblyReference.cache
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.dll
+E:\Учеба\NixSolutions\Study\PharmacyProject\Pharmacy\App\Pharmacy.Core\obj\Debug\Pharmacy.Core.pdb
